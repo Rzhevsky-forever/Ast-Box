@@ -1,1 +1,2 @@
 /storage/log.*
+!/storage/log.txt.example
